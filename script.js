@@ -16,7 +16,7 @@ class Dog extends Animal {
 		super(species)
 	}
 	bark(){
-		console.log("bark")
+		console.log("woof")
 	}
 }
 
